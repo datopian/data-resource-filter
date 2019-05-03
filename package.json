@@ -1,0 +1,17 @@
+{
+  "name": "data-resource-filter",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alasql": "^0.4.11"
+  },
+  "devDependencies": {
+    "ava": "^1.4.1"
+  }
+}
